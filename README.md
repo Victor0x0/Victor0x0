@@ -6,9 +6,9 @@
 
 <h3 align="center">Software Developer passionate about building meaningful software and growing alongside great communities.</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+</p> -->
 
 ---
 
@@ -54,22 +54,12 @@
 ## 🌐 Socials
 
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://wa.me/YOUR_PHONE_NUMBER" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://github.com/Victor0x0" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/Eitan-Cohen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/Eitan-Cohen" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://t.me/alexbuntrock" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://wa.me/19175209008" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
-
----
-
-## 📇 Contact Info
-
-| | |
-|---|---|
-| 📍 **Location** | Toronto, ON |
-| 🤝 **Collaboration** | Open to interesting projects |
-| ⚡ **Fun Fact** | I love playing chess in my free time |
 
 ---
 
@@ -90,6 +80,6 @@
 
 If you find my work helpful, consider buying me a coffee — it helps me keep building and sharing.
 
-<a href="https://www.buymeacoffee.com/YOUR_BMC_USERNAME" target="_blank">
+<a href="https://github.com/Victor0x0/Victor0x0/blob/main/bep20/0x2347D93D23971b39B905c689b6E65Ca5088fA3d9" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
 </a>
