@@ -80,6 +80,6 @@
 
 If you find my work helpful, consider buying me a coffee — it helps me keep building and sharing.
 
-<a href="https://github.com/Victor0x0/Victor0x0/blob/main/bep20/0xecd0c210f5935a25bbccf75a00d6b901a303eeb9" target="_blank">
+<a href="https://github.com/Victor0x0/Victor0x0/blob/main/erc20/0x4C583c6E24cd0118865274c5A10d601356896F86" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
 </a>
